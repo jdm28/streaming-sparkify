@@ -37,9 +37,9 @@ Project files:
 
 1. Configure the dl.cfg file with the aws credentials and the outbound s3 bucket.
 
-> `AWS_ACCESS_KEY_ID `
-> `AWS_SECRET_ACCESS_KEY `
-> `OUTPUT_DATA `
+* AWS_ACCESS_KEY_ID
+* AWS_SECRET_ACCESS_KEY 
+* OUTPUT_DATA 
 
 2. Execute the following command to perform the ingestion.
 
