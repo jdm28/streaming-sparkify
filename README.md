@@ -2,7 +2,7 @@
 
 ### The purpose.
 
-It is to create a star schema for the application called Sparkify. This model is created from the data set of the songs. And with the user activity records we build the fact table.
+The purpose is to create an ETL that allows you to process the data with Spark and store the result in an s3 bucket. This will allow your analytics team to continue to find information about the songs your users are listening to.
 
 ### Data.
 
