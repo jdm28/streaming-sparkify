@@ -36,7 +36,7 @@ Project files:
 ### Installing.
 
 1. Set the variables in the dl.cfg.
-* AWS_ACCESS_KEY_ID
+* AWS_ACCESS_KEY_ID: ccess keys 
 * AWS_SECRET_ACCESS_KEY
 * OUTPUT_DATA
 
