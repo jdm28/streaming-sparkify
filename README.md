@@ -1,4 +1,4 @@
-# Project data modeling with PostgreSQL.
+# Project with SPARK.
 
 ### The purpose.
 
