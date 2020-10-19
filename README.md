@@ -36,9 +36,9 @@ Project files:
 ### Installing.
 
 1. Set the variables in the dl.cfg.
-* AWS_ACCESS_KEY_ID: ccess keys 
-* AWS_SECRET_ACCESS_KEY
-* OUTPUT_DATA
+* ***AWS_ACCESS_KEY_ID***: Aws access key 
+* ***AWS_SECRET_ACCESS_KEY***: Aws secret key 
+* ***OUTPUT_DATA***: Bucket s3 output
 
 2. Execute the following command to perform the ingestion.
 
