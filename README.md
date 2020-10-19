@@ -35,11 +35,10 @@ Project files:
 
 ### Installing.
 
-1. Configure the dl.cfg file with the aws credentials and the outbound s3 bucket.
-
+1. Set the variables in the dl.cfg.
 * AWS_ACCESS_KEY_ID
-* AWS_SECRET_ACCESS_KEY 
-* OUTPUT_DATA 
+* AWS_SECRET_ACCESS_KEY
+* OUTPUT_DATA
 
 2. Execute the following command to perform the ingestion.
 
